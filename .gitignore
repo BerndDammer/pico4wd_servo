@@ -17,6 +17,7 @@ cmake_install.cmake
 *.map
 *.lst
 *.txt
+!src/CMakeLists.txt
 #*.uf2
 
 CMakeCache.txt
